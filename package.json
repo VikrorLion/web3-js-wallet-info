@@ -1,0 +1,16 @@
+{
+  "name": "web3-js-wallet-info",
+  "version": "1.0.0",
+  "description": "Simple Node.js script for fetching ETH wallet balances via Etherscan API",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["web3", "ethereum", "etherscan", "wallet", "javascript"],
+  "author": "Viktor Leonenko",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
